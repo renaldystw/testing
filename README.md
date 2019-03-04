@@ -27,4 +27,4 @@
 
 ### Gambar Roket :rocket:
 
-![Ini video](https://www.youtube.com/watch?v=MCkD1J5SSTQ)
+[![Ini video](https://i.ytimg.com/vi/0s2KLnw3uck/hqdefault.jpg?sqp=-oaymwEiCNIBEHZIWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC_UsBNHWKo-f2AJZlqujqPluvzNA)](https://www.youtube.com/watch?v=MCkD1J5SSTQ)
